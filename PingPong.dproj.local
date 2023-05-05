@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/22 15:45:15.000.355,=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 15:47:35.000.969,=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/23 16:01:29.000.385,=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/23 16:25:24.000.275,=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/23 16:26:08.000.660,C:\Temp\ArkTeste\Unit1.fmx=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/04/23 16:26:08.000.660,C:\Temp\ArkTeste\Unit1.pas=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/23 16:26:27.000.733,C:\Temp\ArkTeste\ArkTeste.dproj=C:\Users\DESENV\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/04/23 16:26:30.000.195,=C:\Temp\ArkTeste\ModelSupport_ArkTeste\default.txaPackage</Transaction>
+    <Transaction>2023/04/23 17:15:56.000.872,=C:\Temp\ArkTeste\Unit2.pas</Transaction>
+    <Transaction>2023/04/23 17:16:22.000.920,C:\Temp\ArkTeste\UBola.pas=C:\Temp\ArkTeste\Unit2.pas</Transaction>
+    <Transaction>2023/04/26 15:07:43.000.218,=C:\Dev\ArkTeste\Unit2.pas</Transaction>
+    <Transaction>2023/04/26 15:08:12.000.578,C:\Dev\ArkTeste\Unit2.pas=C:\Dev\ArkTeste\URebatedor2.pas</Transaction>
+    <Transaction>2023/04/27 12:08:37.000.378,C:\Dev\ArkTeste\URebatedor2.pas=</Transaction>
+    <Transaction>2023/04/27 20:36:05.000.984,=C:\Dev\ArkTeste\ModelSupport_ArkTeste\UBola\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:36:05.000.904,=C:\Dev\ArkTeste\ModelSupport_ArkTeste\default.txvpck</Transaction>
+    <Transaction>2023/04/27 20:36:05.000.476,C:\Dev\ArkTeste\ArkTeste.dproj=C:\Dev\ArkTeste\ArkTeste.dproj</Transaction>
+    <Transaction>2023/04/27 20:36:06.000.010,=C:\Dev\ArkTeste\ModelSupport_ArkTeste\Unit1\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:36:06.000.050,=C:\Dev\ArkTeste\ModelSupport_ArkTeste\ArkTeste\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:40:20.000.998,C:\Dev\Ping Pong\PingPong.dproj=C:\Dev\Ping Pong\ArkTeste.dproj</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.155,=C:\Dev\Ping Pong\ModelSupport_PingPong\UBola\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.083,c:\dev\ping pong\modelsupport_arkteste\default.txvpck=</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.109,=C:\Dev\Ping Pong\ModelSupport_PingPong\default.txvpck</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.081,=C:\Dev\Ping Pong\ModelSupport_PingPong\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.132,=C:\Dev\Ping Pong\ModelSupport_PingPong\Unit1\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.407,=C:\Dev\Ping Pong\ModelSupport_PingPong\Unit1\default.txvpck</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.177,=C:\Dev\Ping Pong\ModelSupport_PingPong\ArkTeste\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.134,c:\dev\ping pong\modelsupport_arkteste\ubola\default.txapackage=</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.113,c:\dev\ping pong\modelsupport_arkteste\unit1\default.txapackage=</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.367,=C:\Dev\Ping Pong\ModelSupport_PingPong\ArkTeste\default.txvpck</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.057,c:\dev\ping pong\modelsupport_arkteste\default.txapackage=</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.831,=C:\Dev\Ping Pong\ModelSupport_PingPong\UBola\default.txvpck</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.157,c:\dev\ping pong\modelsupport_arkteste\arkteste\default.txapackage=</Transaction>
+    <Transaction>2023/04/27 20:40:21.000.326,=C:\Dev\Ping Pong\ModelSupport_PingPong\PingPong\default.txvpck</Transaction>
+    <Transaction>2023/04/27 20:40:22.000.244,=C:\Dev\Ping Pong\ModelSupport_PingPong\PingPong\default.txaPackage</Transaction>
+    <Transaction>2023/04/27 20:41:35.000.942,C:\Dev\Ping Pong\PingPong.dproj=C:\Dev\Ping Pong\PingPong.dproj</Transaction>
+    <Transaction>2023/04/27 20:41:42.000.405,C:\Dev\Ping Pong\PingPong.dproj=C:\Dev\Ping Pong\PingPong.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

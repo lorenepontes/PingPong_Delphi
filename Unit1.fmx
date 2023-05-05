@@ -1,0 +1,118 @@
+object Form1: TForm1
+  Left = 208
+  Top = 144
+  BorderIcons = []
+  Caption = 'Ping Pong - Lorene Garcia - Vers'#227'o Simples'
+  ClientHeight = 400
+  ClientWidth = 600
+  Fill.Color = xFF0C0B0B
+  Fill.Kind = Solid
+  Position = DesktopCenter
+  StyleBook = StyleBook1
+  Visible = True
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnKeyDown = FormKeyDown
+  OnMouseDown = FormMouseDown
+  OnMouseMove = FormMouseMove
+  OnMouseUp = FormMouseUp
+  Left = 208
+  Top = 144
+  DesignerMasterStyle = 0
+  object TButon: TButton
+    CanFocus = False
+    Cursor = crArrow
+    Hint = 'Iniciar jogo'
+    Position.X = 288.000000000000000000
+    Position.Y = 347.000000000000000000
+    Size.Width = 57.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Start'
+    OnClick = TButonClick
+  end
+  object TRebatedor: TRectangle
+    Cursor = crHandPoint
+    Fill.Color = claBlue
+    HitTest = False
+    Position.X = 568.000000000000000000
+    Position.Y = 144.000000000000000000
+    Size.Width = 16.000000000000000000
+    Size.Height = 88.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Timer1: TTimer
+    Enabled = False
+    Interval = 200
+    OnTimer = Timer1Timer
+    Left = 552
+    Top = 8
+  end
+  object TRebatedor2: TRectangle
+    Fill.Color = claBrown
+    HitTest = False
+    Position.X = 8.000000000000000000
+    Position.Y = 144.000000000000000000
+    Size.Width = 17.000000000000000000
+    Size.Height = 88.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object LbPlacar1: TLabel
+    StyledSettings = [Family]
+    Position.X = 176.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 33.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = claBurlywood
+    Text = '0'
+  end
+  object LbPlacar2: TLabel
+    StyledSettings = [Family]
+    HitTest = True
+    Position.X = 392.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 33.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = claBurlywood
+    Text = '0'
+  end
+  object Label1: TLabel
+    Align = Bottom
+    StyledSettings = [Family]
+    HitTest = True
+    Position.Y = 367.000000000000000000
+    Size.Width = 600.000000000000000000
+    Size.Height = 33.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'Label1Style1'
+    TextSettings.Font.Size = 10.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.FontColor = claWhite
+    Text = 
+      'Mova o jogador da direita com o mouse(selecione com o botao dire' +
+      'ito)'
+  end
+  object StyleBook1: TStyleBook
+    Styles = <
+      item
+        ResourcesBin = {
+          464D585F5354594C4520322E3501060C4C6162656C315374796C653103F00000
+          5450463007544C61796F757400095374796C654E616D65060C4C6162656C3153
+          74796C65310A53697A652E57696474680500000000000080E007400B53697A65
+          2E4865696768740500000000000000E106401453697A652E506C6174666F726D
+          44656661756C7408085461624F7264657202000005545465787400095374796C
+          654E616D6506047465787405416C69676E0706436C69656E74064C6F636B6564
+          090748697454657374080A53697A652E57696474680500000000000080E00740
+          0B53697A652E4865696768740500000000000000E106401453697A652E506C61
+          74666F726D44656661756C7408000000}
+      end>
+  end
+end
